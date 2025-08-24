@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Compiled output
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# Optional: environment files
+.env
