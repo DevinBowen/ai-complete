@@ -14,9 +14,6 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# VS Code settings
-.vscode/
-
 # Optional: TypeScript cache
 *.tsbuildinfo
 
